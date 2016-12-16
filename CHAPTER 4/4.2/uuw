@@ -1,0 +1,260 @@
+<div class="navi" style="display:inline-block!important;position:fixed!important;bottom:0!important;right:200px!important;vertical-align:bottom!important;padding-bottom:0!important;margin-bottom:0!important;">
+  
+<h2 class="navi">MENU</h2>
+  <ul class="navi">
+    <li class="navi"><a href="#" class="navi">GAME</a></li>
+    <li class="navi"><a href="#" class="navi" >INBOX</a></li>
+    <li class="navi"><a href="#" class="navi">APPLICATION</a></li>
+    <li class="navi"><a href="#" class="navi">CONTACT</a></li>
+    <li class="navi"><a href="#" class="navi">WHATVER</a></li>
+  <li class="navi"><a href="#" class="navi">GOOGLEFONTSPLS</a></li>
+  </ul>
+</div>
+
+
+<nav id="navprime" style="position: absolute;
+
+				display: block;
+				top: 2.5em;
+				left: 0;
+				width: 100%;
+				text-align: center;">
+								<ul style="background: rgba(0,0,0,0.3);display: inline-block;
+					border-radius: 0.35em;
+					box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
+					padding: 0 1.5em 0 1.5em;">
+									<li class="current" style="display: inline-block;
+						text-align: center;
+						padding: 0 1.5em 0 1.5em;"><a href="index.html" style="@include vendor('transition', 'all .25s ease-in-out');
+					display: block;
+					color: #eee;
+					color: rgba(255, 255, 255, 0.75);
+					text-transform: uppercase;
+					text-decoration: none;
+					font-size: 0.7em;
+					letter-spacing: 0.25em;
+					border-top: solid 1px rgba(255, 255, 255, 0.15);
+					line-height: 3em;">IDK</a></li>
+									<li style="display: inline-block;
+						text-align: center;
+						padding: 0 1.5em 0 1.5em;">
+										<a href="#" style="color: #fff;border-top:0;display: block;
+							color: #eee;
+							color: rgba(255, 255, 255, 0.75);
+							text-transform: uppercase;
+							text-decoration: none;
+							font-size: 0.7em;
+							letter-spacing: 0.25em;
+							height: 5em;
+							line-height: 5em;
+							-moz-transition: all .25s ease-in-out;
+							-webkit-transition: all .25s ease-in-out;
+							-o-transition: all .25s ease-in-out;
+							-ms-transition: all .25s ease-in-out;
+							transition: all .25s ease-in-out;
+							outline: 0;">CHARACTER</a>
+										<ul style="display:none;">
+											<li style="display: inline-block;
+						text-align: center;
+						padding: 0 1.5em 0 1.5em;"><a href="#" style="display: block;
+							color: #eee;
+							color: rgba(255, 255, 255, 0.75);
+							text-transform: uppercase;
+							text-decoration: none;
+							font-size: 0.7em;
+							letter-spacing: 0.25em;
+							height: 5em;
+							line-height: 5em;
+							-moz-transition: all .25s ease-in-out;
+							-webkit-transition: all .25s ease-in-out;
+							-o-transition: all .25s ease-in-out;
+							-ms-transition: all .25s ease-in-out;
+							transition: all .25s ease-in-out;
+							outline: 0;">Lorem ipsum</a></li>
+											<li style="display: inline-block;
+						text-align: center;
+						padding: 0 1.5em 0 1.5em;"><a href="#" style="display: block;
+							color: #eee;
+							color: rgba(255, 255, 255, 0.75);
+							text-transform: uppercase;
+							text-decoration: none;
+							font-size: 0.7em;
+							letter-spacing: 0.25em;
+							height: 5em;
+							line-height: 5em;
+							-moz-transition: all .25s ease-in-out;
+							-webkit-transition: all .25s ease-in-out;
+							-o-transition: all .25s ease-in-out;
+							-ms-transition: all .25s ease-in-out;
+							transition: all .25s ease-in-out;
+							outline: 0;">Magna veroeros</a></li>
+											<li style="display: inline-block;
+						text-align: center;
+						padding: 0 1.5em 0 1.5em;"><a href="#" style="display: block;
+							color: #eee;
+							color: rgba(255, 255, 255, 0.75);
+							text-transform: uppercase;
+							text-decoration: none;
+							font-size: 0.7em;
+							letter-spacing: 0.25em;
+							height: 5em;
+							line-height: 5em;
+							-moz-transition: all .25s ease-in-out;
+							-webkit-transition: all .25s ease-in-out;
+							-o-transition: all .25s ease-in-out;
+							-ms-transition: all .25s ease-in-out;
+							transition: all .25s ease-in-out;
+							outline: 0;">Etiam nisl</a></li>
+											<li style="display: inline-block;
+						text-align: center;
+						padding: 0 1.5em 0 1.5em;">
+												<a href="#" style="display: block;
+							color: #eee;
+							color: rgba(255, 255, 255, 0.75);
+							text-transform: uppercase;
+							text-decoration: none;
+							font-size: 0.7em;
+							letter-spacing: 0.25em;
+							height: 5em;
+							line-height: 5em;
+							-moz-transition: all .25s ease-in-out;
+							-webkit-transition: all .25s ease-in-out;
+							-o-transition: all .25s ease-in-out;
+							-ms-transition: all .25s ease-in-out;
+							transition: all .25s ease-in-out;
+							outline: 0;">Sed consequat</a>
+												<ul style="display: inline-block;
+					border-radius: 0.35em;
+					box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
+					padding: 0 1.5em 0 1.5em;">
+													<li style="display: inline-block;
+						text-align: center;
+						padding: 0 1.5em 0 1.5em;"><a href="#" style="display: block;
+							color: #eee;
+							color: rgba(255, 255, 255, 0.75);
+							text-transform: uppercase;
+							text-decoration: none;
+							font-size: 0.7em;
+							letter-spacing: 0.25em;
+							height: 5em;
+							line-height: 5em;
+							-moz-transition: all .25s ease-in-out;
+							-webkit-transition: all .25s ease-in-out;
+							-o-transition: all .25s ease-in-out;
+							-ms-transition: all .25s ease-in-out;
+							transition: all .25s ease-in-out;
+							outline: 0;">Lorem dolor</a></li>
+													<li style="display: inline-block;
+						text-align: center;
+						padding: 0 1.5em 0 1.5em;"><a href="#" style="display: block;
+							color: #eee;
+							color: rgba(255, 255, 255, 0.75);
+							text-transform: uppercase;
+							text-decoration: none;
+							font-size: 0.7em;
+							letter-spacing: 0.25em;
+							height: 5em;
+							line-height: 5em;
+							-moz-transition: all .25s ease-in-out;
+							-webkit-transition: all .25s ease-in-out;
+							-o-transition: all .25s ease-in-out;
+							-ms-transition: all .25s ease-in-out;
+							transition: all .25s ease-in-out;
+							outline: 0;">Amet consequat</a></li>
+													<li  style="display: inline-block;
+						text-align: center;
+						padding: 0 1.5em 0 1.5em;"><a href="#" style="display: block;
+							color: #eee;
+							color: rgba(255, 255, 255, 0.75);
+							text-transform: uppercase;
+							text-decoration: none;
+							font-size: 0.7em;
+							letter-spacing: 0.25em;
+							height: 5em;
+							line-height: 5em;
+							-moz-transition: all .25s ease-in-out;
+							-webkit-transition: all .25s ease-in-out;
+							-o-transition: all .25s ease-in-out;
+							-ms-transition: all .25s ease-in-out;
+							transition: all .25s ease-in-out;
+							outline: 0;">Magna phasellus</a></li>
+													<li style="display: inline-block;
+						text-align: center;
+						padding: 0 1.5em 0 1.5em;"><a href="#" style="display: block;
+							color: #eee;
+							color: rgba(255, 255, 255, 0.75);
+							text-transform: uppercase;
+							text-decoration: none;
+							font-size: 0.7em;
+							letter-spacing: 0.25em;
+							height: 5em;
+							line-height: 5em;
+							-moz-transition: all .25s ease-in-out;
+							-webkit-transition: all .25s ease-in-out;
+							-o-transition: all .25s ease-in-out;
+							-ms-transition: all .25s ease-in-out;
+							transition: all .25s ease-in-out;
+							outline: 0;">Etiam nisl</a></li>  style="display: inline-block;
+						text-align: center;
+						padding: 0 1.5em 0 1.5em;"
+													<li><a href="#">Sed feugiat</a></li>
+												</ul>
+											</li>
+											<li  style="display: inline-block;
+						text-align: center;
+						padding: 0 1.5em 0 1.5em;"><a href="#">Nisl tempus</a></li>
+										</ul>
+									</li>
+									<li  style="display: inline-block;
+						text-align: center;
+						padding: 0 1.5em 0 1.5em;"><a href="left-sidebar.html" style="display: block;
+							color: #eee;
+							color: rgba(255, 255, 255, 0.75);
+							text-transform: uppercase;
+							text-decoration: none;
+							font-size: 0.7em;
+							letter-spacing: 0.25em;
+							height: 5em;
+							line-height: 5em;
+							-moz-transition: all .25s ease-in-out;
+							-webkit-transition: all .25s ease-in-out;
+							-o-transition: all .25s ease-in-out;
+							-ms-transition: all .25s ease-in-out;
+							transition: all .25s ease-in-out;
+							outline: 0;">HMD</a></li>
+									<li  style="display: inline-block;
+						text-align: center;
+						padding: 0 1.5em 0 1.5em;"><a href="right-sidebar.html" style="display: block;
+							color: #eee;
+							color: rgba(255, 255, 255, 0.75);
+							text-transform: uppercase;
+							text-decoration: none;
+							font-size: 0.7em;
+							letter-spacing: 0.25em;
+							height: 5em;
+							line-height: 5em;
+							-moz-transition: all .25s ease-in-out;
+							-webkit-transition: all .25s ease-in-out;
+							-o-transition: all .25s ease-in-out;
+							-ms-transition: all .25s ease-in-out;
+							transition: all .25s ease-in-out;
+							outline: 0;">GAME</a></li>
+									<li style="display: inline-block;
+						text-align: center;
+						padding: 0 1.5em 0 1.5em;"><a href="#test" style="display: block;
+							color: #eee;
+							color: rgba(255, 255, 255, 0.75);
+							text-transform: uppercase;
+							text-decoration: none;
+							font-size: 0.7em;
+							letter-spacing: 0.25em;
+							height: 5em;
+							line-height: 5em;
+							-moz-transition: all .25s ease-in-out;
+							-webkit-transition: all .25s ease-in-out;
+							-o-transition: all .25s ease-in-out;
+							-ms-transition: all .25s ease-in-out;
+							transition: all .25s ease-in-out;
+							outline: 0;">CONTACT</a></li>
+								</ul>
+							</nav>
